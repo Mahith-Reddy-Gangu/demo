@@ -6,5 +6,5 @@
 - Item 2
 1. Item 3
 2. Item 4
-3. -[x]Done
-4. -[]Not done
+   -[x]Done
+    -[]Not done
